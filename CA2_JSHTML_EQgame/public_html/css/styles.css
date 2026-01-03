@@ -1,0 +1,16 @@
+/* Simple styling for children to easily understand and not get distracted by */
+body 
+{
+    background-color: #e6f2ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Game canvas styling */
+canvas 
+{
+    border: 3px solid #333;
+    background-color: #ffffff;
+}
